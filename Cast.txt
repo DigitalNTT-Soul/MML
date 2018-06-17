@@ -1,0 +1,195 @@
+>[words] : undocumented
+	 no descriptions in the Basic Setting Structure
+
+Silver Wings Magus Academy
+	Argentum Flight
+		- Highest ranked flight in School, so most of the members are rather popular
+		Lazarus Androsin
+			- Lazy genius
+			- not particularly skilled in combat, unless REALLY pissed
+			- has abnormally low mana capacity, so most of his combat requires good strategy
+			- has abnormally high mana-formulation speeds, increasing his casting speed dramatically
+			- quote <every time he's punched by Cheyenne> "Hey look, the magic pixel *faints*"
+			equipment
+				Sigma manual (Sorceror)
+					advanced spellbook
+					looks like a standard spellbook to average mages and non-mages
+					advanced mages can read what the spellbook actually says
+				Dragon Spine (staff)(Sorceror)
+					a 4-foot dried, petrified segment of the compact spinal chord of the previous Sapphire dragon
+					crystalline red, with perfect octahedral (think d8 Christian) Sapphires spaced evenly down the shaft
+					functions as a mana bank for Lazarus, increasing his mana regeneration rate while he is holding it
+					virtually indestructible, but can be broken by a Sapphire dragon
+				Tsubasa (conjured katana) (sorceror)
+					<Katana trivia: the blade of a katana actually reaches to the bottom of the handle, and is sharp from end to end.>
+					Transparent blue unwrapped katana (has no handle; opaque white bandages wrapped around bottom of blade, where handle should be)
+					cannot be broken, but otherwise just a normal sword that looks cool.
+					
+			Sorceror
+				time dilation
+					can experience time at different speeds, useful in combat, or REALLY boring times
+				gravity pulse
+					manipulates gravitational energy at any point the mage can visualize
+				blink
+					teleports one person or thing a short distance
+				mass-teleport
+					teleports more than one person or thing
+					uses exponentially more mana
+				mana locker
+					summons a dimensional pocket of mana, where he can put objects
+					stores all his equipment here, until using it
+				mass compression
+					makes things smaller or larger
+				magnum shell
+					a force field with a wide range of adaptability
+						can only be centered on the mage
+						can cover a rather wide range, but is more powerful in closer ranges
+						can block certain people from entering while allowing others through
+				crater crush
+					forms a crater under the target, and the ground that should have been there wraps around above them, sealing them in
+					slowly closes in on the target
+				thunder road
+					lightning bolt that, once striking a target, will chain through any similar targets within 4 feet of the original target, and continue to do so until it can no longer reach new targets
+				gale force
+					simple strong wind
+				solar scorch
+					encases the taret in a complete orb of fire
+				torrential wave
+					conjures an orb of hyper-compressed water surrounding the target
+				glacier blade
+					a large spike of ice, to be launched as a javelin
+				elemental conjuring
+					can create small amounts of different elements
+					with enough time to focus, he can actually make objects out of them
+			*Spoilers*
+		Angiris Bylahal
+			- honest, cheerful, and the team mascot, but if you insult someone's dream, he snaps so hard his will causes gale force winds
+			- sometimes surprises team with shockingly accurate observations of surroundings, patterns, and reasoning
+				- often first to quote Admiral Ackbar ;P
+			equipment
+				Nightmare Breaker (Cleric)
+					
+				Aegis of the Blind Sun (Cleric)
+					Mythic seal: coats the front of the shield in a red haze of his willpower
+						he can project the willpower out of the shield in any form he wants
+				Blood-bound Cuirass (Warrior)
+					
+			Warrior
+				White muscle transmutation
+				Red Muscle transmutation
+				blade bend
+					literally alters the blade on his sword
+				shock step
+					Not exactly a warrior technique, because it only uses willpower to enhance an ability he had already developed
+					forms a very unassuming christo-de-redentor pose, falls forward, then dashes at the target at superhuman speeds, with his face literally inches from the ground
+			Cleric
+				icon: Human Emotion *cough, cough, pearl dragon, cough, cough*
+				standard exorcism
+				White Hand
+					literally creates a floating white hand that can fly up to half a mile, and can do whatever a normal hand can do.
+					has a weight/force limit
+					can even carry Angiris, therefore allowing him to fly
+					can be created in different forms, but marginally easier to control as a hand
+				Saint's cloak
+					Standard Cleric forcefield
+						not as versatile as the Magnum Shell, but stronger defenses in combat
+				Mythic Presence
+					An extension of White Hand; allows Angiris to create active clones of himself in combat, each capable of casting their own war-trances and miracles (excluding Mythic presence)
+					Legendary seal: "Legendary Presence"
+					Legendary Presence
+						can create dozens of semi-permanent, sovereign, exact copies, yet again, each is capable of casting their own war-trances and miracles (including both Mythic and Legendary Presence)
+							semi-permanent because they last forever, or until he dismisses them
+							they do not continuously draw on his faith or will-power, and they are each capable of thinking completely for themselves
+					Angiris can actively see his lifespan.
+						Both Mythic and Legendary presence actively shorten Angiris' lifespan.
+							The total number of bodies is the multiplier for how fast his lifespan goes down.
+							For instance 1 clone = 2 bodies = consuming 2 seconds of lifespan for every 1 second of time
+								     2 clones= 3 bodies = consuming 3 seconds of lifespan for every 1 second of time
+								     and so forth
+						He does not visibly age from this.
+						
+			
+		Cheyenne Myrtiprus
+			- very tsundere in Lazarus's general direction, and therefore really angry really often
+			- good friends with Angiris
+			equipment
+			Sorceror
+			Warrior
+			
+		Maria Parlidra
+			- really shy
+			- likes Angiris secretly
+			equipment
+			Shaman
+				Visions of Apocalypse
+					Conquest
+					War
+					Famine
+					Death
+			Cleric
+				icon: Angiris (secret; Cheyenne is the only one who knows, but nearly lets it slip a few times)
+				standard exorcism
+				Saint's Cloak
+				Divine Aegis
+				
+		Samuel Vanekuss
+			- <cough, cough> self righteous and pompous jerk <cough, cough>
+			- always soft on the girls, but eventually grows to respect Lazarus and Angiris
+			equipment
+			Pro Rogue
+				Soundproof
+					causes him to produce no sound, and allows him to hear everything around him in much clearer detail
+				Mirage
+					bends light around him, rendering him completely invisible
+				*Skypierce*
+					*cough, cough, epic archery/his only useful team combat skill, cough, cough*
+				
+	Aurum Flight
+		- Second ranked team
+		- sometimes required to work together
+		Maxwell - total jerk, and total brute force guy
+			equipment
+			Pro Warrior
+		Arthur - decently nice, but really awkward and shy
+			equipment
+			Pro Cleric
+		Samantha - cocky as all hell, but totally has the hots for Lazarus
+			equipment
+			Pro Sorceror
+		Sergei - keeps most of his face hidden, and no one's ever heard him speak (not a jerk though)
+			equipment
+			Pro Rogue
+		Alexis - kinda creepy in general, but talks a lot
+			equipment
+			Pro Shaman
+			
+***Pearlescent Defiance Magus Academy***
+	- Main Academy of Archon Saga
+	- Made in Memory of Argentum Flight
+	- a "Rebellion" school
+		- provides sanctuary and education to students of non-star magics
+		- a lot of non-star magics have been developed since the downfall of the Titan
+	Angel corps
+		Simon [the Inheritor]
+			equipment
+			Sky-Scribe
+			>Channeler
+		Isaac [the Redeemer]
+			equipment
+			Summoner
+			>Sea-Smith
+		Miranda [the ]
+			equipment
+			>Storm-sewer
+			
+		Jewel [the ]
+			
+	Staff
+		Headmaster: Precursor, First of Nine
+			Archon
+				- The first archon, Precursor is the originator of Scripti, although he cannot use it himself
+				- he looks like a bunch of bandages wrapped around an invisible human form
+					- to Simon, he looks like a large series of 2-dime Scriptis arranged to resemble a human body
+				- pick a single second of any multi-layer dubstep and that's pretty much what his voice sounds like
+		Vice Principal: Maxwell, yes, THAT Maxwell...
+				

@@ -1,0 +1,146 @@
+<Notes:>
+
+
+
+{a name or letter in braces defines a speaker}
+
+<anything surrounded in rails is simply structure notes>
+
+*anything surrounded in stars describes an action*
+
+[anything surrounded in brackets describes the immediate setting]
+
+"anything surrounded in quotes is a line of dialogue"
+
+"<anything in both quotes and rails is a line of dialogue in the voxi language (refer to Basic Setting Structure->Magic->Non-star magics->Voxan)>"
+
+><: needs more content
+
+there will be a couple of relatively gory scenes sprinkled throughout the series.
+
+	at the beginning of episodes with gory scenes, we will leave a gore warning.
+
+<End of Notes>
+
+
+
+[Lazarus fell asleep in the middle of class before the first scene]
+
+[blank black screen, but as soon as the professor begins talking, you begin to see Lazarus's dream. It's a dreamy animation of what the teacher and class are describing.]
+
+{Professor} "Even since the first recorded history, mankind has been beset on all sides by magic creatures. We combated this with *pauses*"
+
+{Class} *bored* "Magic."
+
+{Professor} "Good! Now, who knows all the FORMS of magic?"
+*couple of hands fly up, because most of the class either forgot over the summer, or doesn't want to answer anyway* *teacher picks randomly*
+
+{Professor} "Ah~~~~~~... Cheyenne, how about you?" *Cheyenne hadn't been raising her hand*
+
+{Cheyenne} "*stands up with frustrated sigh* Shadow, Miracle, Sorcery, Hex, War-trance *sits down*"
+
+{Professor} "I'll tell you what. If you can tell me the arrangement of the Great star, I'll give you credit for that incomplete answer."
+
+{Cheyenne} "Wha--ughhh... How am I supposed to know?"
+
+{Professor} "By paying attention in class, Cheyenne. *pegs Cheyenne in the forehead with a chalkboard eraser* Anyone else have an answer?... Maria!"
+
+{Maria} *very nervous. Walks up to the chalk board to draw the diagram* "It's a five-point star. Sorcery is on the top point, then we go down to the right to War-trance. Go up to the left for Miracles. Cross over to the right for Hexes. Drop to the left for Shadow. And finally, connect them in a standard 5-stroke star."
+
+{Professor} "And what does this represent?"
+
+{Maria} "It shows the compatibilities between the forms of magic. A mage cannot know two incompatible magics. For instance, no sorceror can cast a miracle."
+
+{Professor} "That's correct enough for credit. Can anyone show where her explanation is lacking?"
+
+{Maria} *ducks her head and quickly returns to her seat*
+
+{Professor} "Um... Samuel!"
+
+{Samuel} *collects a piece of chalk from the chalkboard, and walks to the back of the room* "What she missed was..." *throws the chalk at the chalkboard. it hits dead center of the star and forms a perfect 2-inch wide circle as it completely evaporates onto the chalkboard* "summoning, the non-star magic."
+
+{Professor} *Clapping* "Good display of class-specific skills, but you still missed one."
+*Samuel slinks back into his seat and pouts that no one fawned over his awesomeness*
+*Just then, the door flies open and Angiris walks in*
+
+{Angiris} "Sorry teach, I added another 10 miles to my jog last night for celebration, so my legs were sluggish this morning."
+
+{Professor} "Well, then. If you can figure out what's missing here, I'll excuse your tardiness."
+
+{Angiris} "Uh... aren't there two non-star magics."
+
+{Class} *collective "huh/what"* *Samuel faceplams REALLY hard*
+
+{Professor} "Precisely! Do you know what the other one is called?"
+
+{Angiris} "Uh... nope..."
+
+{Professor} *sigh* "Fine. You're excused... Does ANYONE know this?"
+*Angiris goes to sit down, his chair is right behind Lazarus's*
+
+{Professor} *looks at lazarus sleeping* "Anyone at all?" *lazarus doesn't even flinch* *professor whispering* "<nightmare>"
+[since the audience is still seeing Lazarus's dream, and the professor just used a voxi to make that dream a nightmare, we see a flying javelin of ice fly towards the camera and impale itself in the camera, breaking the glass... it's still under debate as to whether that counts as a fourth wall break, since it's in a dream...]
+*lazarus suddenly wakes up with a jolt [screen turns bright white for a second, then the audience can now see what's actually happening in the room, rather than the dream]*
+
+{Lazarus} "Um... did anybody else just see a flying icicle?"
+*Class bursts out laughing*
+
+{Cheyenne} "Hey, Genius! I thought you were here to improve yourself."
+
+{Professor} "Well that's a bit harsh." *swats Cheyenne on the top of the head with his pointer*
+
+{Cheyenne} "Ow! Watch it old man..."
+
+{Professor} "Back to business. Lazarus! Fix the board diagram, or I'll have you doing laps around the school with your knees tied together."
+
+{Lazarus} *Walks up to the board, examines the diagram, then grabs a chalk board eraser and makes a perfect yin-yang out of Simon's chalk dot* *whispers to himself: "nailed it"* "The final form of magic is Voxi." *glares at the teacher briefly, realizing that's where the icicle came from*
+
+{Class} *most of them look at him like he's stupid, cause they don't remember anything about that*
+
+{Professor} "Brilliant! And when was it last used?"
+
+{Lazarus} *Glares at the teacher again* "It's used constantly."
+
+{Professor} *rolls his eyes and sighs* "When was the last time its use was legal?"
+
+{Lazarus} "Um... When the last Maxi-Magus died."
+
+{Class} *they all remember, and their jaws drop so hard the floor almost cracks*
+
+{Cheyenne} *Glares at Lazarus, and then looks away and whispers: "Jerk..."*
+
+{Professor} *mumbles to himself* "Boy, did I get the worst class. 30 people and only 1 knew what they were doing."
+[Screen focuses on clock, then we flip forward in time to lunch and look back to the class]
+[Bell rings]
+
+{Professor} "Ah... That's the lunch bell. OFF WITH YOU! I have steak today, and I don't want any of you trying to steal it."
+[class laughs as they file out the door; Maxwell waiting just outside the door]
+{Angiris} "Oh, hi Maxy *ducks an angry backhand from Maxwell* how ya doin?"
+
+{Maxwell} "I told you not to call me that, punkwad."
+
+{Angiris} "Oh... I guess you did... whoops..."
+[Lazarus finally reaches the doorway; Maxwell grins viciously]
+
+{Maxwell} *grabs Lazarus by the throat and throws him across the hallway and into some lockers* "*mocking voice* Hey, Lazarus. I thought you were some kind of master mage. When are you gonna show me what you've got? Or are you just full of hot air?"
+
+{Lazarus} *falls to the ground* "Ughhh... What do you want this time?"
+
+{Maxwell} "I thought that was obvious. Were you not paying attention, or are you just not as smart as you thought? What do you plan to accomplish if you can't even stand up after something this weak?"
+
+{Angiris} *starting to get a bit angry, and barely managing to hide it; walks over to Lazarus and offers a hand* "Hey, man. You okay?"
+
+{Lazarus} *lightly pushes the hand away, and slowly stands up* "I appreciate the offer, but I don't want the help. *glares at Maxwell* You want to know what I hope to accomplish?"
+
+{Maxwell} *laughing and speaking loudly* "Sure. Tell me! I'd love to hear it!"
+
+{Angiris} "Don't let him get to you, Lazzy."
+
+
+{Lazarus} "Maxwell, you couldn't comprehend my dreams if I told you, so I won't waste my time with the details, but I pity you... because, one day, I'm going to show the world what I can accomplish, and you'll finally understand how pathetic you are."
+
+
+
+
+
+><

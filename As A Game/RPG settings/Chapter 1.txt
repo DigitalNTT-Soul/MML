@@ -1,0 +1,174 @@
+<DM notes>
+[Mandatory Setting Notes]
+{IF they ask}
+
+Recordkeeper Plot
+
+[Game starts with the party standing in the gymnasium of Iron Armies Magus Academy, attending Magic Creatures and Strategies class.]
+
+<Functions as Tutorial>
+
+[Odd device hovering about stomach-height over the ground. Instructor standing on the other side of the odd device, talking.]
+
+"Welcome to Day 13 of Magic Creatures and Strategies. Now that every student has passed the Theory test, I'm looking at you Atlas, we can finally get into some practical exercises. Today, I will be activating the spawner. This device in front of me converts wild magic from the air around us into electricity, light, sound, and depleted wild magic. As you all FINALLY know, depleted wild magic, the aftermath of spellcasting, is the source of 90% of all magical creatures. Under normal circumstances, it would take about an hour for a wraith-class magical creature to appear, and the category of wraith would be determined entirely by the type of magic used. The spawner device in front of me separates its mana intake into 5 compartments that each deplete a certain electron of the carbon-7 ion, a.k.a. mana, before releasing it into the environment and the amount of mana it processes will produce five wraiths every 60 seconds. For your tests today, each team will be called, in order, to defeat your wave of targets, collect their remains, and tag in the next team of students before the next wave is generated. Seventeen students in the history of this school have ever failed this test. Ten of them now work as naturals answering help desk calls and selling toasters, four of them work in GTRD, and two of them were killed in action. Don't. Fuck. Up."
+
+[All the students are asked to step out into the hallway and line up according to the assigned teams. Your team is third in line.]
+
+[]
+
+[]
+
+###########
+#ENCOUNTER#
+###########
+
+Zombie
+	STR 20
+	DEX 7
+	CON 20:XXX
+	INT 1
+	WIS 11
+	CHA 1
+Zombie
+	STR 20
+	DEX 7
+	CON 20:XXX
+	INT 1
+	WIS 11
+	CHA 1
+Zombie
+	STR 20
+	DEX 7
+	CON 20:XXX
+	INT 1
+	WIS 11
+	CHA 1
+Zombie
+	STR 20
+	DEX 7
+	CON 20:XXX
+	INT 1
+	WIS 11
+	CHA 1
+Demon
+	STR 5
+	DEX 15
+	CON 5:XXX
+	INT 10
+	WIS 10
+	CHA 15
+Demon
+	STR 5
+	DEX 15
+	CON 5:XXX
+	INT 10
+	WIS 10
+	CHA 15
+Demon
+	STR 5
+	DEX 15
+	CON 5:XXX
+	INT 10
+	WIS 10
+	CHA 15
+Demon
+	STR 5
+	DEX 15
+	CON 5:XXX
+	INT 10
+	WIS 10
+	CHA 15
+Banshee
+	STR 1
+	DEX 11
+	CON 1:XXX
+	INT 20
+	WIS 7
+	CHA 20
+Banshee
+	STR 1
+	DEX 11
+	CON 1:XXX
+	INT 20
+	WIS 7
+	CHA 20
+Banshee
+	STR 1
+	DEX 11
+	CON 1:XXX
+	INT 20
+	WIS 7
+	CHA 20
+Banshee
+	STR 1
+	DEX 11
+	CON 1:XXX
+	INT 20
+	WIS 7
+	CHA 20
+Shade
+	STR 11
+	DEX 20
+	CON 1:XXX
+	INT 7
+	WIS 20
+	CHA 1
+Shade
+	STR 11
+	DEX 20
+	CON 1:XXX
+	INT 7
+	WIS 20
+	CHA 1
+Shade
+	STR 11
+	DEX 20
+	CON 1:XXX
+	INT 7
+	WIS 20
+	CHA 1
+Shade
+	STR 11
+	DEX 20
+	CON 1:XXX
+	INT 7
+	WIS 20
+	CHA 1
+water elemental
+	STR 15
+	DEX 20
+	CON 8:XXX
+	INT 1
+	WIS 15
+	CHA 1
+wind elemental
+	STR 1
+	DEX 20
+	CON 3:XXX
+	INT 20
+	WIS 15
+	CHA 1
+ice elemental
+	STR 20
+	DEX 15
+	CON 10:XXX
+	INT 4
+	WIS 10
+	CHA 1
+lightning elemental
+	STR 5
+	DEX 20
+	CON 4:XXX
+	INT 20
+	WIS 10
+	CHA 1
+
+###############
+#END ENCOUNTER#
+###############
+
+[Gym teacher instructs students to head to the main office to cash in their crystals, and instructs them to, along the way, tell all the other students waiting in line that their tests are cancelled today. The students are upset.]
+
+[Team heads to the office and gets paid 20,000 mansa for the crystallized remains of the wraiths]
+
+[Headmaster walks in, congratulates the party on their fantastic performance, and announces their early nomination to the upcoming mastery examination in 2 weeks]

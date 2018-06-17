@@ -1,0 +1,70 @@
+Michael
+	Aetherius Lightingale
+		15000 mansa
+			Natural job: Blacksmith
+				5000 mansa at the end of each game
+		Warrior
+			Shocking Presence (AoE Taunt)
+		Cleric
+			hardlight structure 2 base damage
+		Ability
+			Sword slash 3 base damage
+		STR 30
+		CON 15:375
+		DEX 30
+			6 actions
+		INT 15
+			15 spells
+		WIS 10
+		CHA 20
+Christian
+	Prometheus Solitara
+		11000 mansa
+			Natural job: Sells bread and "Solitara Toast"
+				2000 mansa at the end of each game session
+		Sorceror
+			elemental 2 base damage/mana
+			gravity 5 TOTAL damage/mana
+		Voxi
+		Ability
+		STR 15
+		CON 20:600
+		DEX 25
+			5 actions
+		INT 30
+			30 spells
+		WIS 20
+		CHA 10
+Sage
+	Atlas Solitara
+		9500 mansa
+			Natural job: Sells bread and "Solitara Toast"
+				2000 mansa at the end of each game
+		Rogue
+		Summoner
+		Ability
+			Sniper Rifle 50 TOTAL damage
+		STR 20
+		CON 15:375
+		DEX 30
+			6 actions
+		INT 20
+			20 spells
+		WIS 25
+		CHA 10
+Lakin
+	Elankre Fervis
+		10000 mansa
+			Natural job: 
+		Shaman
+			Wisdom buff =CHA/5
+		Cleric
+		Ability
+		STR 10
+		CON 25:875
+		DEX 15
+			3 actions
+		INT 25
+			25 spells
+		WIS 20
+		CHA 25

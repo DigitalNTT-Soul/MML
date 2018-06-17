@@ -1,0 +1,77 @@
+#########
+#WRAITHS#
+#########
+Zombie
+	STR 20
+	DEX 7
+	CON 20:600
+	INT 1
+	WIS 11
+	CHA 1
+Demon
+	STR 5
+	DEX 15
+	CON 5:75
+	INT 10
+	WIS 10
+	CHA 15
+Banshee
+	STR 1
+	DEX 11
+	CON 1:11
+	INT 20
+	WIS 7
+	CHA 20
+Shade
+	STR 11
+	DEX 20
+	CON 1:11
+	INT 7
+	WIS 20
+	CHA 1
+fire elemental
+	STR 5
+	DEX 10
+	CON 10:200
+	INT 20
+	WIS 14
+	CHA 1
+water elemental
+	STR 15
+	DEX 20
+	CON 8:144
+	INT 1
+	WIS 15
+	CHA 1
+ice elemental
+	STR 20
+	DEX 15
+	CON 10:200
+	INT 4
+	WIS 10
+	CHA 1
+earth elemental
+	STR 20
+	DEX 9
+	CON 20:600
+	INT 1
+	WIS 9
+	CHA 1
+lightning elemental
+	STR 5
+	DEX 20
+	CON 4:56
+	INT 20
+	WIS 10
+	CHA 1
+wind elemental
+	STR 1
+	DEX 20
+	CON 3:39
+	INT 20
+	WIS 15
+	CHA 1
+##########
+#TANTRUMS#
+##########
+Blackhand

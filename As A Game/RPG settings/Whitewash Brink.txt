@@ -1,0 +1,36 @@
+#####################
+#The Whitewash Brink#
+#####################
+
+Reed "Zeus" Whitewash
+	Bio:"I didn't start the Whitewash Brigade for money. I'm a mercenary because I want to fight for something, but I refuse to be tied to and controlled by a government whose corrupt factions will abuse my skills and my allies."
+
+Player classes
+######
+#Tech#
+######
+ability: stealth
+	armor is equipped with a short-range, low-power Photon Grabber, perfectly tuned to be just powerful enough to become invisible. Due to radius of stealth, only the Tech can benefit from it, and shields are unusable. !!!AVOID ANTI-MATTER AT ALL COSTS WHILE STEALTHED!!!
+
+#######
+#Pilot#
+#######
+ability: Puppetmaster
+	as the Master Pilot of the Whitewash Brigade, you have psychic control over every ship in the entire Whitewash Fleet. Through quantum entanglement communication, all orders are given and acted upon instantaneously.
+	
+########
+#Gunner#
+########
+ability: Spitting Death
+	equipped with an advanced target analysis AI and the triple-threat that is the Anubistat Auto-Rifle. Just aim and pull the trigger; the weapon will scan the target's defences and automatically fire the exact ammunition type that will surpass their defences and kill them in a single shot. (combine with the fact that I don't make you roll to hit, because everyone is essentially their own aim bot, and you are THE dps guy.)
+
+#########################
+#The Endset Organization#
+#########################
+Samuel "Black Psycho" Blackwind
+	Bio:"idunno... who the fuck is this guy?"
+	Ability: Psyche Palace
+		kinda like inception. He drags you into his dreams.
+			In Samuel's dream, he can have any ability he wants, but only one at a time.
+			Everyone else dragged into the Psyche Palace is given a random ability from the list of Samuel's abilities
+				Samuel knows the complete list of abilities, but he doesn't know which ability is given to the party members. The party members don't know either, and have to discover their abilities and kill Samuel before he kills them.

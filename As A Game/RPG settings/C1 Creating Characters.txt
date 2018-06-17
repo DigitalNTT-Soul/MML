@@ -1,0 +1,41 @@
+quick guide to making characters for the MML spinoff D&D game
+
+1. Choose a Race
+	There are very few playable races in this series. The ones that are commonly available are Human or Half-Elemental, while the rarer ones, for more dramatic campaigns can include Half-Dragon, Half-Angel, and even Enigmas.
+	Pure Humans advance their spells 20% faster (greater effect, and you can use them more creatively). Humans also gain a temporary stat boosts depending on the "Intensity Rating" of the combat encounter (more on Intensity in chapter <>)
+	Half-Elementals are humans with one elemental parent. Depending on the Element of the parent, the character Automatically has COMPLETE Mastery of the associated element.
+	<The rest of the Races will be added at a later date.>
+
+2. Choose Class(es)
+	There are technically 7 playable classes, but for introductory sessions, you will be limited to selecting from the 5 canonically "Legal" classes. Each of these classes has 2 subclasses.
+
+	Cleric
+		Crusader (Tank/Melee DPS)
+			Powerful Support abilities that can only be cast on the Crusader. Powerful attack abilities.
+		Healer (Support)
+			Slightly weaker versions of the same Support abilities that can be cast on others. Powerful healing abilities
+	Warrior
+		Armorer (Tank/Melee DPS/Alt Support)
+			Manipulates objects and equipment at the atomic level
+		Berserker (Tank/Melee DPS/Alt Support)
+			Manipulates muscles and other tissue at the cellular level
+	Sorceror
+		Elementalist (Spell DPS)
+			Elemental magic
+		Law binder (Spell DPS/Alt Support)
+			Laws of physics
+	Shaman
+		Nightmare (Spell DPS)
+			Debuffs the enemies by reaching through the realm of the dead to mess with the flow of their mana
+		Witch Doctor (Support)
+			Continuously channels buffs and/or healing by reaching through the realm of the dead to mess with the flow of mana in their allies (in a positive way)
+	Rogue
+		Ghost (Alt Support)
+			Bends light and sound in illusory ways
+		Ranger (Ranged DPS)
+			Bends light and sound in Offensive ways
+
+	A character can either focus all his energy on one class and wield both subclasses simultaneously, or split his focus between a MAXIMUM of two classes, using only one subclass from each class at a time.
+	note: Class selection is permanent, while subclass can be changed any time outside of combat, and can be changed for a single action point while in combat.
+	For example, if a character were to focus entirely on the warrior class, he could use Armorer and Berserker skills back to back with greater effect, but if that same character had chosen to become a Cleric as well, he could enhance his abilities in different ways, either by using a force field to defend himself or by healing his own wounds.
+

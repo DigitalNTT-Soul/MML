@@ -1,0 +1,39 @@
+Sorceror
+	Basic
+		Time dilation
+		blink
+		Mana locker
+		magnum shell
+
+	Law
+		mass-teleport
+		gravity pulse
+		mass compression
+		fission/fusion
+
+	Elemental
+		Crater crush
+		thunder road
+		gale force
+		solar scorch
+		torrential wave
+		glacier blade
+Warrior
+	Basic
+		Physics lock
+		Advanced Muscle Training
+	Armorer
+		Blade Bend
+			allows the warrior to manipulate any material
+	Berserker
+Cleric
+	Basic
+	Priest
+	Crusader
+Shaman
+	Basic
+	
+Rogue
+	Basic
+	Ranger
+	Ghost

@@ -1,0 +1,30 @@
+HL - Hardlight
+	weaponry
+		Projectile travels at speed of light
+		Projectile does not slow down on impact of any kind
+		Weapons have built in computers that determine the direction and range of the projectile. Once the projectile reaches its maximum range, it simply stops existing.
+	shields
+		all Anti-matter projectiles explode on impact, with no effect on the target
+		all hardlight projectiles are absorbed, with no effect on the target
+		
+AM - Anti-matter
+	weaponry
+		Projectile travels at modern rifle speeds
+		Projectile explodes on impact
+		shields: none
+			9mm round
+				kills target
+				maims anything within 5 feet
+				stuns anything within 10 feet
+			.30 cal
+				kills anything within 5 feet of target
+				maims anything within 10 feet of target
+				stuns anything within 25 feet of target
+		anything larger than a .30 cal round is reserved for orbital bombardment level shit
+PG - Photon Grabber
+	weaponry
+		comes in grenade form only
+		draws in all photons (light particles) around it
+ - -----
+|:|*****|
+ - -----

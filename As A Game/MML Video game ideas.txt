@@ -1,0 +1,98 @@
+!!! Warning: Trying to read this on Windows may cause all the lines to merge, making this very difficult to understand !!!
+First decisions
+	Which systems?
+		all systems
+	Cross Compatibility
+		Multiplayer will be FULLY cross-compatible
+		All multiplayer data stored on same servers, in same format.
+	Multiplayer?
+		Similar to an MMO
+		Every character has an effect on the whole game, but the game is heavily instanced, so you can only see so many other players at once.
+		Each player starts multiplayer as an amateur mage with only a handful of mansa (the currency of this universe)
+	Singleplayer storyline?
+		parallel to Titan Saga
+	Promotions?
+		With there only being 5 ranks for mages, Promotions are a VERY big deal in multiplayer.
+
+Multiplayer
+	game separated into multiple instances to reduce lag. Think Kingdom Hearts.
+	Every instance has its own server, and by moving between map zones, your character data is temporarily transferred to that server.
+	
+Class system
+	Cleric
+		Crusader (Tank/Melee Damage)
+			Powerful Support abilities, centered on the Cleric. Powerful attack abilities.
+		Healer (Support)
+			Weaker Support, but the Cleric can put them on others
+	Warrior
+		Armorer (Tank/Melee Damage/Alt Support)
+			Manipulates objects and equipment
+		Berserker (Tank/Melee Damage/Alt Support)
+			Manipulates muscles and other tissues
+	Sorceror
+		Elementalist (Spell Damage)
+			Elemental spells
+		Law binder (Alt Support)
+			Law spells
+	Shaman
+		Curser (Spell Damage)
+			Causes harmful effects on Enemies
+		Hexer (Support)
+			Continuously chants buffs for allies
+	Rogue
+		Ghost (Alt Support)
+			Bends light and sound to make the Rogue undetectable and Enemies less powerful
+		Ranger (Ranged Damage)
+			Condenses light and sound into powerful attacks
+
+	Based on the Great Star (From the series) you cannot pick two incompatible magics.
+		Cleric
+			warrior
+			shaman
+		warrior
+			shaman
+			sorceror
+		Sorceror
+			Warrior
+			Rogue
+		Shaman
+			Cleric
+			Rogue
+		Rogue
+			Sorceror
+			Shaman
+
+		subclass compatibility is not an issue, so long as the classes are compatible.
+Level system
+	Killing Monsters doesn't give money or promotion progress, but it does slowly increase the stats involved in any skills you use to destroy them
+
+	Stats
+		all stats max out at 1 Million
+
+		Strength
+			Increases the power of melee and ranged abilities
+		Determination
+			Increases the power of spells
+		Vitality
+			Increases Health and physical defense
+		Dexterity
+			Increases the accuracy of all attacks
+		Agility
+			Increases your movement and attack speed in combat
+		Stamina
+			Increases the speed at which you regenerate power
+		Intelligence
+			Increases the speed at which you regenerate mana
+Ultimate Forms
+	By achieving Legend Rank, each character gains an "Ultimate" power or form to use in combat
+	The exact power differs based on the character's classes, subclasses, and the Moral Standing of the character itself.
+		Singleplayer has a large number of events that can effect your Moral standing, culminating a positive, negative, or Neutral Moral score.
+		Multi-player has very few of these events.
+		Upon reaching Legend Rank, the character's Moral standing, classes, and subclasses will determine the exact Ultimate power the character achieves
+	Math time
+		25 possible class/subclass possibilities
+		Times
+		3 Possible Moral Scores
+		Equals
+		75 possible Ultimate abilities
+		

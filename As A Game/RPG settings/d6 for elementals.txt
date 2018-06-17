@@ -1,0 +1,6 @@
+1 fire
+2 water
+3 earth
+4 air
+5 ice
+6 lightning

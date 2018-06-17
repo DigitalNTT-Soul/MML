@@ -1,0 +1,41 @@
+Lazarus
+	Hair:		Medium-length black
+			neatly parted
+	Eyes:		Green
+	Build:		Thin
+	Height:		Average
+	Muscle mass:	Below Average
+	Complexion:	Pale
+Angiris
+	Hair:		Eyebrow-length Bleach-Blonde Mop
+			no particular styling, think of Christian's hair, but thicker
+	Eyes:		Green
+	Build:		Above Average
+	Height:		Average
+	Muscle mass:	Buff
+	Complexion:	 Average
+Cheyenne
+	Hair:		Chest-Length Brown
+			draped over one shoulder at all times,
+	Eyes:		Brown
+	Build:		Thin-average
+	Height:		Below Average
+	Muscle mass:	Above Average
+	Complexion:	Tan
+Maria
+	Hair:		Hip-length DARK black
+			neatly tucked behind her ears, then it just flops down her back
+	Eyes:		Green
+	Build:		Thin
+	Height:		Short
+	Muscle mass:	Flimsy
+	Complexion:	Moderately Pale
+Samuel
+	Hair:		Buzzcut Brown
+			N/A <one does not simply "style" a buzzcut>
+	Eyes:		Blue
+	Build:		Above Average
+	Height:		Above Average
+	Muscle mass:	Average
+	Complexion:	Average
+	

@@ -1,0 +1,289 @@
+Key:
+*<hint>*: spoilers
+
+Magic creatures
+	Magic equipment
+		equipment engraved with runes, granting magical properties to the weapons
+		technically considered Magic creatures, because they use their own mana to power the engraved spells
+			Non-mages can use magic equipment effectively because it does not draw from their magical energies and the only brainpower required to control the magic is knowing where to point it, how to activate it, and how to deactivate it
+		absorbs wild mana from defeated magic creatures, with no limit
+	Wild Mana
+		Mana that exists in nature, and does not inhabit humans, spirits, familiars, or magic objects
+		all Magic creatures are manifestations of Wild Mana, and defeating one will recharge nearby magic weapons
+	*Standard* Dragon
+		One dragon of every color born every decade
+		20 colors of dragon
+			white
+			black
+			Blue
+			Red
+			Yellow
+			Orange
+			Purple
+			Green
+
+			Bronze
+			Silver
+			Gold
+
+			Diamond
+			Sapphire
+			Emerald
+			Ruby
+			Topaz
+			Citrine
+			Amethyst
+			Onyx
+			Pearl
+		dragons can be born even if no living dragons exist
+		dragons are most powerful *known* magical creatures in existence
+		dragon parts make great Magic Equipment because they have intense magical properties that enhance magic abilities
+		ALL dragons (especially the Pearl and Onyx Dragons mentioned below) are capable of intelligent thought, communication, diplomacy, emotion, and even magic
+	*Pearl Dragon* Graisol
+		The embodiment of positive human emotion
+		one of the two dragons which can maintain memories from past generations
+	Onyx Dragon
+		The embodiment of negative human emotion (she is not evil, she just gets stronger when people suffer)
+		Graisol's direct sister
+		the second of the two dragons which can maintain memories from past generations
+	Wraith
+		weak enemies
+		created almost constantly
+			Wraiths are the coagulation of depleted Wild Mana
+				forms in roughly an hour, and immediately nearby the location where the spell was cast
+			every time a spell is cast, it releases depleted forms of mana into the wild, turning it into depleted Wild Mana
+		named based on the type of magic that spawned it (very evident in the appearance of the wraith)
+			Elemental - Sorcery
+				defeat by using opposing element against it (can only be EFFICIENTLY defeated with magic weapons)
+			Zombie - War-trance
+				defeat by removing head, limbs, and lower jaw.
+			Demons - Miracles
+				defeat by standard Cleric Exorcism (exorcisms do not create wraiths)
+			Banshee - Hex
+				defeated manually by the Shaman's possessing spirit
+			Shade - Shadow
+				defeat by shining bright lights on it
+			Voice - Voxi -- more powerful then other wraiths (but still relatively weak), as voxi generally deplete large quantities of Wild Mana
+				defeated ONLY by striking at mach 1 or higher with any attack
+			Skeleton - Summoning -- spawns over a hundred if used to resurrect a dead human
+				defeat by breaking every bone... takes a while... (any attack that can break bones)
+		magic weapons do not summon Wraiths
+	Tantrum
+		moderately powerful enemy
+		they have no recognizable spawning patterns or triggers
+			however, many theories exist as to when, why, and how they are created
+		have no significant variances in appearance
+			not believed to be created by the use of magic
+	Enigma
+		extrememely powerful, but not nearly as powerful as a dragon
+		no recognizable spawning patterns or triggers
+		capable of intelligent thought, communication, and even diplomacy
+	***Archon***
+		***Super uber spoilers from space***
+		Precursor, First of Nine
+			Archon of Voxi
+		????????, Second of Nine
+			Father of Faberi
+		????????, Third of Nine
+			Mother of Neredi
+		????????, Fourth of Nine
+		????????, Fifth of Nine
+		????????, Sixth of Nine
+		????????, Seventh of Nine
+		????????, Eighth of Nine
+		Ascendance, Ninth of Nine
+			Father of Peace
+	ALL magic creatures can be defeated using magic equipment, however, there are often more efficient methods than this
+	to compare the strength hierarchy of magic creatures to officer ranks in the military
+		??????
+			??????
+		President
+			Pearl Dragon
+			Onyx Dragon
+			Archons
+		5-star general
+			Diamond Dragon
+		4-star general
+			Sapphire Dragon
+			Emerald Dragon
+			Ruby Dragon
+			Topaz Dragon
+			Citrine Dragon
+			Amethyst Dragon
+		3-star general
+			Bronze Dragon
+			Silver Dragon
+			Gold Dragon
+		2-star general
+			White Dragon
+			Black Dragon
+		1-star general
+			blue dragon
+			red dragon
+			yellow dragon
+			orange dragon
+			purple dragon
+			green dragon
+		Colonel
+			Enigma
+		Captain
+			Tantrum
+		Lieutenant
+			Voice
+			Skeleton
+		Ensign
+			Elemental
+			zombie
+			demons
+			banshee
+			Shade
+
+Magic
+	-- can use magic freely, but are limited by the abilities of their brains
+     	-- brains are only capable of knowing up to two fields of magic
+		-- once learning a magic form, there is no way of getting rid of it... you're stuck kiddo...
+	-- focusing on a single field allows you to completely master that field, and grants you greater control of it (referred to as Pros, although they may not all be professional in skill)
+	-- when mages are particularly emotional, their mana/will/faith/spirit/focus seeps out at an increased rate, and increases the air pressure
+	-- all mages have a unique mark on their skin, called a stigma, above any one of the points at which mana is often concentrated
+		-- the marks themselves are unique to each mage, although we do not intend to come up with a hundred different freaking marks, so we'll just come up with the marks for the important characters that might get a lot of screen time
+		-- the rule for the positioning is not critical to the lore, it's just an excuse to put it in places you'd normally expect to see a magical mark, such as the palm, back of hand, or even the eyes
+	-- most forms of magic can create small familiars capable of doing simple errands
+		-- can often be used to generate the cute factor
+
+	The Great Star -- the general term to refer to the five common (and legal) classes of magic
+		1. Sorceror - Sorcery
+			Mana
+			manipulation of standard mana
+			has many subclasses, and is the most used, and generally the most versatile
+				elemental magic
+				law magic
+					magic that defies the laws of science
+				time-space magic (rare, complex, and delicate magic; warning: can break universe; if universe breaks, it will always begin by slowly and painfully eviscerating the Sorceror who cast the problematic spell; universe can be repaired if spell is countered soon enough)
+
+		2. Warrior - War-trance
+			Will
+			can use willpower to alter or enhance the traits of objects or Warrior
+			enhancements slowly sap willpower, but... you know... it's willpower... haven't you ever seen an anime fight before
+			they essentially have to be freakin pissed to be any good in a fight, and therefore are *USUALLY* slow to react to traps or surprise attacks
+			enhancements and alterations revert to original form when willpower runs out or Warrior dies
+				can be used to force certain spells to end, such as hexes that only last until the warrior dies, because as soon as he dies, his self alteration reverts and the last spark of life (remains for around 2 seconds after death) will return
+					(he'll have to sleep for... like... a week... and he'll need a whole feast when he wakes up, because he needs to regain his energy)
+
+		3. Cleric - Miracle
+			Faith
+			Requires prayer to an icon (object, being, or ideal of great value to the Cleric)
+				icon must be more important to cleric than cleric's own life
+				cannot even generate Faith without having an icon
+			strangely enough, the icon can be something very vague, as long as the Cleric values it greatly
+			it is common for a cleric to reveal his icon to his allies, although it is not required, and many keep their icons secret
+			if the icon is destroyed, the Cleric will fall into a coma for one year and die
+				in most cases, re-creating an icon will not save the Cleric
+				If the cleric's icon is an ideal, it cannot be destroyed easily, and therefore these clerics have a slight advantage
+			icons can actually be other people
+				this is an exception to the above recreation rule
+				if a human icon is resurrected with summoning magic (illegal) the Cleric will be saved, and usually wakes up within a couple of hours
+				if an icon is human, prayers to the icon are not heard by the icon, but the icon can feel a slight tingling at the base of the skull
+
+		4. Shaman - Hex
+			spirit
+			possessed by a spirit, whom they can call on at any time to perform magic rituals that can only be cast from within the realm of the dead
+			can cast curses (hexes) on victims, which last for specified periods of time, or until certain conditions are met
+				the spirit, unable to leave the Shaman's body, reaches into the realm of the dead and uses their own power to interfere with the flow of magic energy in the target
+				can only have a certain number of curses active at a time, based on the complexity of each individual curse, the skill of the shaman, and the strength of the spirit
+
+		5. Rogue - Shadow
+			Focus
+			uses brainpower to manipulate energy (but not forms of magic) in the surrounding air
+			disadvantaged in live combat, because they have to split their focus between combat and magic
+			can bend light and sound, and can completely erase any traces of Rogue's existence (although Rogue still exists; in the context of stealth)
+			usually really fast, and skilled with ranged weapons and acrobatics
+
+	Non-star Magics -- only two, voxi and summoning
+
+		Voxan - Voxi
+			<no resource/can be used repeatedly with no "charge" or "fatigue">
+			Uses special language to bend Wild Mana to the caster's will
+			complete mastery is required to use it safely
+			learning is illegal, because previous maxi-magus was killed with it, and mages are VERY paranoid ("guns kill people" logic)
+			all mages who knew voxan magic before it became illegal maintain their freedom, but will be hunted if they teach or openly use it
+			
+		Summoner - summoning
+			uses magic objects and biological material to turn dead flesh into magic familiars, or to resurrect the dead
+			illegal due to connection to necromancy and the relentlessness of the resulting wraiths
+			
+		***Sky-Scribe - scripti***
+			***super uber spoilers from space***
+			mana pearl
+				- coagulations of mana within the bloodstream, creating mana dense enough to be seen as a mist when pushed from the body.
+			0-dime
+				- just point and think
+				- about as powerful as a firecracker. Usually used as a distraction
+			1-dime
+				- a linear scripti; snap finger to cast
+				- not very useful in combat. Can perform simple acts such as unlocking doors and sending messages
+			2-dime
+				- a circular scripti, center symbol must be struck with extreme force to cast.
+				- main combat spells. Resource-cheap and effective in normal combat.
+			3-dime
+				- a spherical, expanding scripti, thrown at the target with any means; expands and activates on contact
+				- Superior combat spells. Resource-demanding and hyper-effective. Boss fight spells
+			4-dime
+				- form a 2-dime scripti in front of the Sky-Scribe, and punch it from both sides simultaneously, making it "flush" both arms with hyperactive mana pearls
+				- very dangerous for the Sky-Scribe's health
+				- spellcasting alterations
+					- ALL mana pearls expelled from the body at will
+					- formulation is completely instant, and requires absolutely no movement or gestures
+					- firing is instant, requires only minimal gestures, and is automatically at maximum power
+				- striking someone while using 4-dime leaches the target's mana and compresses it into mana pearls for the Sky-Scribe
+				- turns arms black with electric-blue circuitry-looking lines going from shoulder to hand; just for the cools, it doesn't damage clothing, but the sleeves disappear while active
+Non-magic -- can still use simple magic and magic equipment, but their brains are not capable of processing complex or large spells
+
+	Monk
+		can absorb all magic resources from mages or magic objects by touching them (at will, so mages don't have to worry about giving a monk a high-five)
+			have large mana capacity
+			can transfer magic energies to other mages by touching them
+			the combination of the above two abilities make Monks a vital component of teams expecting to be engaged in long-term combat
+		Must move fast and have training in martial arts, as well as study magic theory
+		generally peacekeepers
+		often assigned to professional mage teams, if not a peacekeeper
+
+	Militia
+		Humans specializing in the use of magic equipment
+
+	citizen
+		standard civilian, usually capable of the most standard sorceries, but other fields of weak magic are GENERALLY out of their reach
+Universe
+	It's pretty much modern Earth, minus terrorism, plus magic
+	EVERYONE already knows about the existence of Magic (yes, I'm aware I just disabled a valuable plot tool, sorry.)
+	There is VERY little bad blood between Mages and Non-Mages
+		There are SOME power-hungry mages who think mages should rule over all non-mages
+		there are SOME non-mages who think they're already under the mages' control and want to rebel
+		laws surrounding the actions of mages are strict
+			duels
+				duels are usually large events with big crowds
+				duel participants don't die in combat
+				mages may duel each other in registered arenas
+					any magical combat outside an arena is considered militant, and will be dealt with harshly.
+				mages may not duel non-mages unless the non-mage challenges the mage with multiple witnesses
+					
+	There are roughly as many successful non-mages as there are successful mages
+	Mage academies are very similar to modern high schools, and the portion of the brain that produces and controls magical energies *USUALLY* only begins to develop at puberty, so don't worry about little elementary-schoolers burning each other to death
+
+Spellcasting walkthrough
+	casting split up into three steps
+		1. magic energy is useless while housed in the body, so the mage must push it out of the body in order to use it
+		2. magic energy must be arranged in specific patterns to prepare the effects of the spell or ability
+		3. magic energy pattern must be activated, or "fired" in order to activate the effect
+	steps shortened to
+		1. push
+		2. mold
+		3. fire
+	the timeline of casting spells *usually* involves
+		1 part pushing
+		2 parts forming
+		1 part firing
+		
+		i.e. a 4-second cast time usually takes
+			1 second to push the mana
+			2 seconds to form it
+			1 second to fire it

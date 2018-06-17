@@ -1,0 +1,49 @@
+#########
+#Summary#
+#########
+Sorceror 11
+	While defences are up, sorcerors are
+		Immune to Primary Alteration +3
+		Immune to Secondary Alteration +3
+		Immune to Energy Attacks +3
+		Weak to Physical Attacks +1
+		Unprotected to Spiritual Attacks +0
+		Weak to Illusion Attack +1
+Warriors 9
+	While Defences are up, Warriors are
+		Immune to Primary Alteration +3
+		Unprotected to Secondary Alteration +0
+		Resistant to Energy Attacks +2
+		Immune to Physical Attacks +3
+		Unprotected to Spiritual Attacks +0
+		Weak to Illusion Attack +1
+Clerics 12
+	While Defences are up, Clerics are
+		Immune to Primary Alteration +3
+		weak to Secondary Alteration +1
+		Immune to Energy Attacks +3
+		Resistant to Physical Attacks +2
+		Resistant to Spiritual Attacks +2
+		Weak to Illusion Attack +1
+Shamans 13
+	While Defences are up, Shamans are
+		Immune to Primary Alteration +3
+		Resistant to Secondary Alteration +2
+		Unprotected to Energy Attacks +0
+		Immune to Physical Attacks +3
+		Resistant to Spiritual Attacks +2
+		Immune to Illusion Attack +3
+Rogues 10
+	Rogues have no defenses, and are
+		Unprotected to Primary Alteration +0
+		Unprotected to Secondary Alteration +0
+		Resistant to Energy Attacks +2
+		Weak to Physical Attacks +1
+		Unprotected to Spiritual Attacks +0
+		Immune to Illusion Attacks +3
+	While Stealth is up, Rogues are
+		Resistant to Sorceror Detection +1
+		Resistant to Warrior Detection +1
+		Resistant to Cleric Detection +1
+		Unprotected to Shaman Protection +0
+		Resistant to Rogue Detection +1
